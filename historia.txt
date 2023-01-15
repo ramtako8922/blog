@@ -1,2 +1,3 @@
 hola mi nombre es ricardo y esto es practicando git
 voy a ser un gran desarrollador
+por eso trngo que aprender javar
