@@ -1,1 +1,2 @@
 hola mi nombre es ricardo y esto es practicando git
+voy a ser un gran desarrollador
