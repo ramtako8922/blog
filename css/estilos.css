@@ -11,8 +11,9 @@ body{
 }
 
 #pie{
-    background-color: bisque;
+    background-color: rgb(42, 35, 133);
     text-align: center;
+    color: aliceblue;
 
 
 }
