@@ -4,3 +4,5 @@
 - Nuevo blog aprendiendo github
 
 ##GRACIAS POR VERLO:stuck_out_tongue:
+#nuevas cosas para este proyecto
+#gracias al equipo
